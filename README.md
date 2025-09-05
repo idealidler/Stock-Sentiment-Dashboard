@@ -27,7 +27,7 @@ A full-stack data science project that fetches financial data, performs analysis
 
 ### ## How to Run Locally
 
-1.  Clone the repository: `git clone https://github.com/YourUsername/stock-sentiment-dashboard.git`
+1.  Clone the repository: `git clone https://github.com/idealidler/Stock-Sentiment-Dashboard.git`
 2.  Create and activate a Python environment.
 3.  Install dependencies: `pip install -r requirements.txt`
 4.  Set up your PostgreSQL database and `.env` file with your credentials and API keys.

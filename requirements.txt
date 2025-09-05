@@ -1,0 +1,12 @@
+streamlit
+pandas
+yfinance
+requests
+python-dotenv
+sqlalchemy
+psycopg2-binary
+joblib
+google-generativeai
+matplotlib
+seaborn
+scikit-learn

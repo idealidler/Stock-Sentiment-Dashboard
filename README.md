@@ -2,7 +2,7 @@
 
 A full-stack data science project that fetches financial data, performs analysis, and uses a machine learning model with a Large Language Model (LLM) to predict and explain stock price movements.
 
-**Live Demo:** [Link to your deployed Streamlit App URL]
+**Live Demo:** (https://stock-sentiment-dashboard-project.streamlit.app)
 
 ---
 
